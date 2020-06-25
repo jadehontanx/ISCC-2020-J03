@@ -43,4 +43,9 @@ p
 ul#menu li
 { display:table-cell;
 text-align:center;}  
-    
+
+span
+{
+    color: green;
+}
+
